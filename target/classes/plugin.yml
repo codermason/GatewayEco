@@ -1,0 +1,15 @@
+name: GatewayEco
+main: com.codermason.gatewayeco.GatewayEco
+version: 1.0
+author: codermason
+description: An economy plugin for GatewayNetwork
+commands:
+  pay:
+    description: Pay a player funds
+  togglepay:
+    description: Prevent yourself from recieving payments
+  money:
+    description: Stem of money commands
+  balance:
+    description: Check your current balance
+    alias: [bal]
